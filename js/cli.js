@@ -1,6 +1,6 @@
-var journalCount = require('./count.js').journalCount;
+var JournalEntry = require('./journal.js').JournalEntry;
 
 
-console.log('Journal Entry Count!');
-var result = journalCount("Hello there");
-console.log(result);
+// console.log('Journal Entry Count!');
+// var result = journalCount("Hello there");
+// console.log(result);
